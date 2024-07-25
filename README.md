@@ -1,4 +1,4 @@
-# Data-Handling-and-Views
+# Data-Handling-and-Visualizations
 
 # Getting Started with Create React App
 
